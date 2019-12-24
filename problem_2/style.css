@@ -1,0 +1,21 @@
+.container {
+    max-width: 800px;
+    height: 50vh;
+    margin: 5em auto;
+}
+
+.panel {
+    padding: 2em 1em;
+    text-align: center;
+    background-color: #e5eecc;
+    cursor: pointer;
+}
+
+.main {
+    background-color: #dfedff;
+    height: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 500ms;
+}
