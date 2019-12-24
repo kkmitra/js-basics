@@ -1,0 +1,1 @@
+$(".btn").click(_ => $("#red-box").hide())
