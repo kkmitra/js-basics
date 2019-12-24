@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 800px;
+    height: 50vh;
+    margin: 5em auto;
+    padding: 1em;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+}
+
+form {
+    width: 50%;
+    margin: 1em auto;
+}
+
+form div {
+    margin: 1em 0;
+}
+
+input {
+    width: 100%;
+    padding: 0.5em 1em;
+}
